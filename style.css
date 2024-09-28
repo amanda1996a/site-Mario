@@ -87,7 +87,7 @@ p {
     }
 
     .mascara-form {
-      visibility: hidden
+      visibility: hidden;
       height: 100vh;
       width: 100vw;
       position: fixed;
